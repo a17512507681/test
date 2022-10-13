@@ -1,0 +1,1 @@
+LDLIBS += -L./userlib -lm
